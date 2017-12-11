@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Testts</string>
+    <string-array name="systems">
+        <item>2</item>
+        <item>8</item>
+        <item>16</item>
+    </string-array>
+</resources>
